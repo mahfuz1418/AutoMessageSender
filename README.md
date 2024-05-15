@@ -15,7 +15,8 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_1](https://github.com/mahfuz1418/AutoMessageSender/assets/91899388/bbef580d-efa2-4858-8b1d-0d946e3cdb8f)
+
 
 
 ## Uses Manual
